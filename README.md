@@ -14,7 +14,7 @@ The analysis identifies key factors affecting employee turnover including satisf
 ## Dashboard
 The interactive dashboard provides a comprehensive view of the analysis results and can be accessed in two ways:
 
-1. **Online**: [View the dashboard on GitHub Pages](https://jnakkash.github.io/Employee-Retention-Predictions-/)
+1. **Online**: https://jnakkash.github.io/Employee-Retention-Predictions-
 
 2. **Locally**: Open the HTML file after cloning the repository:
 ```
