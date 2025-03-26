@@ -26,7 +26,7 @@ ENV/
 
 # Large files (optional, depending on your GitHub storage limits)
 *.pkl
-*.html
+# *.html
 
 # Jupyter Notebook
 .ipynb_checkpoints
