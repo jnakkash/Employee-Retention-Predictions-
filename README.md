@@ -12,7 +12,11 @@ The analysis identifies key factors affecting employee turnover including satisf
 - **Department** and **salary level** have significant impact on retention
 
 ## Dashboard
-The interactive dashboard provides a comprehensive view of the analysis results and can be accessed by opening the HTML file:
+The interactive dashboard provides a comprehensive view of the analysis results and can be accessed in two ways:
+
+1. **Online**: [View the dashboard on GitHub Pages](https://jnakkash.github.io/Employee-Retention-Predictions-/)
+
+2. **Locally**: Open the HTML file after cloning the repository:
 ```
 interactive_dashboard.html
 ```
