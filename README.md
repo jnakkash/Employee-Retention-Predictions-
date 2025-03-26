@@ -139,7 +139,7 @@ Creates an interactive HTML dashboard:
    ```
 
 3. **View Dashboard**:
-   Open `interactive_dashboard.html` in any web browser to explore the interactive dashboard.
+   https://jnakkash.github.io/Employee_Retention_Prediction_Model  
 
 ## Models Implemented
 - **Random Forest** (best performance, selected as final model)
