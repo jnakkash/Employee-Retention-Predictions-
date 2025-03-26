@@ -1,9 +1,16 @@
 # Employee Retention Predictive Model - Salifort Motors
 
 ## Project Overview
-This project implements a machine learning predictive model to identify employees at risk of leaving Salifort Motors, enabling proactive retention strategies and reducing hiring costs. The Random Forest model achieves 98% accuracy in predicting employee turnover, providing HR teams with actionable insights to improve retention.
-
+This project implements a machine learning predictive model to identify employees at risk of leaving Salifort Motors, enabling proactive retention strategies and reducing hiring costs.
+The goals in this project are to analyze the data collected by the HR department and to build a model that predicts whether or not an employee will leave the company.
+If we can predict employees likely to quit, it might be possible to identify factors that contribute to their leaving. Because it is time-consuming and expensive to find, interview, and hire new employees, increasing employee retention will be beneficial to the company.
 The analysis identifies key factors affecting employee turnover including satisfaction levels, number of projects, working hours, and time spent at the company. These insights form the basis for recommended interventions to improve employee retention rates.
+
+## Dashboard
+The interactive dashboard provides a comprehensive view of the analysis results and can be accessed below:
+https://jnakkash.github.io/Employee-Retention-Predictions-
+   
+The Random Forest model achieves 98% accuracy in predicting employee turnover, providing HR teams with actionable insights to improve retention.
 
 ## Key Findings
 - **Satisfaction level** is the strongest predictor of employee turnover
@@ -11,10 +18,7 @@ The analysis identifies key factors affecting employee turnover including satisf
 - Employees who stayed **3-4 years** with no promotion show higher turnover rates
 - **Department** and **salary level** have significant impact on retention
 
-## Dashboard
-The interactive dashboard provides a comprehensive view of the analysis results and can be accessed in two ways:
 
-1. **Online**: https://jnakkash.github.io/Employee-Retention-Predictions-
 
 2. **Locally**: Open the HTML file after cloning the repository:
 ```
