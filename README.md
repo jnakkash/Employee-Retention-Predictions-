@@ -9,17 +9,19 @@ If we can predict employees likely to quit, it might be possible to identify fac
 
 The analysis identifies key factors affecting employee turnover including satisfaction levels, number of projects, working hours, and time spent at the company. These insights form the basis for recommended interventions to improve employee retention rates.
 
+## Dashboard
+The interactive dashboard provides a comprehensive view of the analysis results and can be accessed below:
+https://jnakkash.github.io/Employee_Retention_Prediction_Model
+
+
 ## Key Findings
+*The Random Forest model achieves 98% accuracy in predicting employee turnover, providing HR teams with actionable insights to improve retention*
 - **Satisfaction level** is the strongest predictor of employee turnover
 - Employees with **high number of projects** and **long working hours** show increased turnover risk
 - Employees who stayed **3-4 years** with no promotion show higher turnover rates
 - **Department** and **salary level** have significant impact on retention
 
-## Dashboard
-The interactive dashboard provides a comprehensive view of the analysis results and can be accessed below:
-https://jnakkash.github.io/Employee_Retention_Prediction_Model
 
-Forest model achieves 98% accuracy in predicting employee turnover, providing HR teams with actionable insights to improve retention.
 
 ### Dashboard Features
 - **Executive Summary**: Concise overview of key findings and recommendations
