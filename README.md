@@ -3,7 +3,7 @@
 ## Project Overview
 This project implements a machine learning predictive model to identify employees at risk of leaving Salifort Motors, enabling proactive retention strategies and reducing hiring costs. The Random 
 
-Your goals in this project are to analyze the data collected by the HR department and to build a model that predicts whether or not an employee will leave the company.
+The goals in this project are to analyze the data collected by the HR department and to build a model that predicts whether or not an employee will leave the company.
 
 If we can predict employees likely to quit, it might be possible to identify factors that contribute to their leaving. Because it is time-consuming and expensive to find, interview, and hire new employees, increasing employee retention will be beneficial to the company.
 
