@@ -1,7 +1,7 @@
 # Employee Retention Predictive Model - Salifort Motors
 
 ## Project Overview
-This project implements a machine learning predictive model to identify employees at risk of leaving Salifort Motors, enabling proactive retention strategies and reducing hiring costs. The Random 
+This project implements a machine learning predictive model to identify employees at risk of leaving Salifort Motors, enabling proactive retention strategies and reducing hiring costs.
 
 The goals in this project are to analyze the data collected by the HR department and to build a model that predicts whether or not an employee will leave the company.
 
